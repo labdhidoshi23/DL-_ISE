@@ -1,2 +1,2 @@
 # DL-ISE
-Implementation of stochastic gradient descent on diabetes data 
+Implementation of stochastic gradient descent on diabetes dataset
